@@ -8,7 +8,7 @@ This repository is a Playwright-based framework for end-to-end testing of an app
 
 - [Playwright](https://playwright.dev/) for UI automation
 - `@faker-js/faker` for generating test data
-- Testmail GraphQL API for reading email content
+- [Testmail](https://testmail.app/) GraphQL API for reading email content
 - `@testmail.app/graphql-request` for the GraphQL request layer
 - `dotenv` for environment variables
 
