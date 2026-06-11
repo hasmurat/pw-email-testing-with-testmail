@@ -1,0 +1,20 @@
+{
+  "name": "email-testing-pw",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "@faker-js/faker": "^10.4.0",
+    "@playwright/test": "^1.60.0",
+    "@types/node": "^25.9.3"
+  },
+  "dependencies": {
+    "@testmail.app/graphql-request": "^1.8.4",
+    "dotenv": "^17.4.2"
+  }
+}
